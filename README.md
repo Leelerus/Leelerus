@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=3200&pause=1200&color=C9C9C9&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=PRESENT+DAY%2C+PRESENT+TIME...;CONNECTING+TO+THE+WIRED;NO+MATTER+WHERE+YOU+GO%2C+EVERYONE+IS+CONNECTED;%3F%3F%3F+IDENTITY_NOT_FOUND+%3F%3F%3F;%3E+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=3200&pause=1200&color=C9C9C9&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=PRESENT+DAY%2C+PRESENT+TIME...;CONNECTING+TO+THE+WIRED;NO+MATTER+WHERE+YOU+GO%2C+EVERYONE+IS+CONNECTED;%3E+_" alt="Typing SVG" />
 
 </div>
 
@@ -46,7 +46,7 @@
 # things you know / use — replace freely
 languages:    [C, Python, Bash, PowerShell]
 tools:        [VSCode, MySQL]
-systems:      [Windows :[, Linux :]]
+systems:      [Windows, Linux]
 currently:    "[ Learning Git right now ]"
 ```
 
