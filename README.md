@@ -14,7 +14,7 @@
 </pre>
 
 <h3 align="center">
-<sub>close the world, open the <a href="#">next</a></sub>
+<sub><a href="#">next</a></sub>
 </h3>
 
 <br>
