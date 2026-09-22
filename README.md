@@ -40,7 +40,6 @@
 </div>
 
 ```yaml
-# things you know / use — replace freely
 languages:    [C, Python, Bash, PowerShell]
 tools:        [VSCode, MySQL]
 systems:      [Windows, Linux]
