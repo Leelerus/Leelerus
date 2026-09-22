@@ -13,9 +13,6 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 </pre>
 
-<h3 align="center">
-<sub><a href="#">next</a></sub>
-</h3>
 
 <br>
 
@@ -28,8 +25,8 @@
 </div>
 
 ```
-[ I'm learning how to code, how to host servers and networks ]
-[ But i still have a lot to learn ]
+[ I'm learning how to code, how to host servers and understand networks ]
+[ I still have a lot to learn, trying not to learn with AI ]
 ```
 
 <br>
