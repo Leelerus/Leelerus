@@ -6,7 +6,7 @@
 
 <pre align="center">
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░  NAVI                                  ░
+░  Leeeel                                ░
 ░  layer: 05 // protocol accepted        ░
 ░  user: [ Lele / Leelerus ]             ░
 ░  status: learning everything IT        ░
@@ -28,8 +28,8 @@
 </div>
 
 ```
-[ YOUR TAGLINE / ONE-LINE INTRO — who you are, what you do ]
-[ e.g. role, field, where you're based ]
+[ I'm learning how to code and how to host servers and networks ]
+[ But i still have a lot to learn ]
 ```
 
 <br>
@@ -44,10 +44,10 @@
 
 ```yaml
 # things you know / use — replace freely
-languages:    []
-tools:        []
-systems:      []
-currently:    "[ what you're learning / working on ]"
+languages:    [C, Python, Bash, PowerShell]
+tools:        [VSCode, MySQL]
+systems:      [Windows :[, Linux :]]
+currently:    "[ Learning Git right now ]"
 ```
 
 <br>
@@ -61,9 +61,7 @@ currently:    "[ what you're learning / working on ]"
 </div>
 
 ```diff
-+ [ PROJECT NAME ] — one line on what it is / status
-~ [ PROJECT NAME ] — one line on what it is / status
-- [ PROJECT NAME ] — archived / paused
+[ Loading... ]
 ```
 
 <br>
@@ -95,6 +93,6 @@ currently:    "[ what you're learning / working on ]"
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=90&section=header"/>
 
-<sub><i>let's all love Lain</i></sub>
+<sub><i>Beep Boop</i></sub>
 
 </div>
