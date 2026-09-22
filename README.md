@@ -26,7 +26,7 @@
 
 ```
 [ I'm learning how to code, how to host servers and understand networks ]
-[ I still have a lot to learn, trying not to learn with AI ]
+[ I still have a long way ahead of me, trying not to learn with AI ]
 ```
 
 <br>
@@ -43,7 +43,7 @@
 languages:    [C, Python, Bash, PowerShell]
 tools:        [VSCode, MySQL]
 systems:      [Windows, Linux]
-currently:    "[ Learning Git right now ]"
+currently:    [Learning Git right now]
 ```
 
 <br>
