@@ -28,7 +28,7 @@
 </div>
 
 ```
-[ I'm learning how to code and how to host servers and networks ]
+[ I'm learning how to code, how to host servers and networks ]
 [ But i still have a lot to learn ]
 ```
 
